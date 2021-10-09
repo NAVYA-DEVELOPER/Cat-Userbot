@@ -8,7 +8,7 @@ Main source is here [main source](https://github.com/sandy1709/catuserbot) fork 
 
 fork this repo and [main repo](https://github.com/sandy1709/catuserbot) and click on deploy
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2Fqwertytech123%2FCat-Userbot&template=https%3A%2F%2Fgithub.com%2Fqwertytech123%2FCat-Userbot)
 
 ## credits
    - [@midnightmadwalk](https://t.me/midnightmadwalk)
